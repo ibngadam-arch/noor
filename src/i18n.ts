@@ -1,0 +1,40 @@
+export const translations = {
+  ar: {
+    home: 'الرئيسية',
+    prayer: 'المواقيت',
+    quran: 'القرآن',
+    tasbih: 'التسبيح',
+    ai: 'نور AI',
+    greeting: 'السلام عليكم',
+    nextPrayer: 'الصلاة القادمة',
+    dailyInspiration: 'إلهام اليوم',
+    morningAdhkar: 'أذكار الصباح',
+    adhkarDesc: 'تذكر قراءة أذكار الصباح لبداية مباركة ليومك.',
+    ramadanCountdown: 'العد التنازلي لرمضان',
+    ramadanDesc: 'وقت التأمل الروحي والنمو يقترب قريباً.',
+    location: 'الموقع الحالي',
+    makkah: 'مكة المكرمة',
+    searchSurah: 'بحث عن سورة بالاسم أو الرقم...',
+    backToList: 'العودة للقائمة',
+    ayahs: 'آيات',
+    digitalTasbih: 'المسبحة الإلكترونية',
+    cycle: 'الدورة',
+    goal: 'الهدف',
+    reset: 'إعادة ضبط',
+    remembranceQuote: '"ألا بذكر الله تطمئن القلوب"',
+    aiTitle: 'نور AI',
+    aiSubtitle: 'مساعد المعرفة الإسلامية',
+    aiWelcome: 'أنا نور AI. اسألني عن القرآن، التاريخ الإسلامي، الأخلاق أو التوجيه الروحي العام.',
+    typeMessage: 'اكتب رسالتك هنا...',
+    aiDisclaimer: 'قد يقدم نور AI معلومات عامة؛ استشر عالماً للمسائل الفقهية المحددة.',
+    loading: 'جاري التحميل...',
+    prayers: {
+      Fajr: 'الفجر',
+      Sunrise: 'الشروق',
+      Dhuhr: 'الظهر',
+      Asr: 'العصر',
+      Maghrib: 'المغرب',
+      Isha: 'العشاء'
+    }
+  }
+};

@@ -1,0 +1,13 @@
+{
+  "name": "Nur - Islamic Companion",
+  "description": "A comprehensive spiritual app for Muslims featuring prayer times, Quran, Dhikr counter, and an AI-powered Islamic Knowledge Assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI Knowledge Assistant",
+    "Prayer Times Tracking",
+    "Digital Quran",
+    "Tasbih Counter"
+  ]
+}
